@@ -1,6 +1,5 @@
 # Code from:
 # https://github.com/Dav1dde/glad/issues/186
-# TODO: put in public submodule?
 cmake_minimum_required(VERSION 3.10)
 project(glad)
 
